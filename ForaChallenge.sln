@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForaChallenge.Api", "ForaChallenge.Api\ForaChallenge.Api.csproj", "{0632A141-670C-4F00-86DC-0619880F8DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0632A141-670C-4F00-86DC-0619880F8DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0632A141-670C-4F00-86DC-0619880F8DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0632A141-670C-4F00-86DC-0619880F8DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0632A141-670C-4F00-86DC-0619880F8DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
